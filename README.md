@@ -1,16 +1,22 @@
-## Hi there 👋
+ ## &nbsp; Hi 👋, I’m Thomas Trivino!
+ ### &nbsp;💻 About Me
+  &emsp;🎓 I am currently a student at UCF majoring in Computer Science and aspiring Software Engineer! I am very enthusiastic about Computer Science and am interested in developing tools that aid in life.
+  
+  &emsp;🌱 Currently learning how to develop Arduino projects.
+  
+  &emsp;📚 My favorite pass-time is reading books, currently working through Oathbringer!
+  
+ ### &nbsp;⚡ Tools
+  * Java
+  
+  * C
+  
+  * C#
 
-<!--
-**ThomasT-GitHub/thomast-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  * Google Script
 
-Here are some ideas to get you started:
+  * Unity
+  
+  * Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * React (React Native)
