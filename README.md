@@ -7,18 +7,7 @@
   &emsp;📚 My favorite pass-time is reading books, currently working through Oathbringer!
   
  ### &nbsp;⚡ Tools
-  * Java
-  
-  * C
-  
-  * C#
-
-  * Google Script
-
-  * Unity
-  
-  * Javascript
-
-  * React (React Native)
-
-  * Docker
+* **Languages:** Java, Python, C, SQL, JavaScript, HTML/CSS, Golang  
+* **Frameworks:** React, Node.js, Discord.py, Puppeteer  
+* **Cloud Platforms/Tools:** Docker, Azure, Google Cloud Platform, Github Action, Docker Developer Tools: Git, VS Code, Figma  
+* **Spoken Languages:** English, Spanish  
