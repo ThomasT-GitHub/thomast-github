@@ -1,6 +1,6 @@
  ## &nbsp; Hi 👋, I’m Thomas Trivino!
  ### &nbsp;💻 About Me
-  &emsp;🎓 I am currently a student at UCF majoring in Computer Science and prev Software Engineer @ Meta!
+  &emsp;🎓 I am currently a student at UCF majoring in Computer Science and prev Software Engineer Intern @ Meta!
   
   &emsp;🌱 Currently learning how to develop scalable solutions woth a focus in the accessibility space.
   
